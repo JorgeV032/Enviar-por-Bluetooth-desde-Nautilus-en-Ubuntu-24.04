@@ -34,6 +34,13 @@ Añade la opción de Enviar por Bluetooth desde Nautilus en Ubuntu 24.04
 
 
 
+### Paso 5: Dale permisos de ejecución.
+  ```
+  sudo chmod +x Enviar\ por\ Bluetooth
+  ```
+
+
+
 ### Paso 5: Reinicia Nautilus.
   ```
   nautilus -q
