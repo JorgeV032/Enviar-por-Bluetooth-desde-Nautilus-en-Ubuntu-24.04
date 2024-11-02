@@ -19,7 +19,7 @@ Añade la opción de Enviar por Bluetooth desde Nautilus en Ubuntu 24.04
 
 ### Paso 3: Copia en esta ruta el fichero "Enviar por Bluetooth", que puedes descargar de este repositorio, o bien créalo.
   ```
-  nano Enviar por Bluetooth
+  nano Enviar\ por\ Bluetooth
   ```
 
 
@@ -41,7 +41,7 @@ Añade la opción de Enviar por Bluetooth desde Nautilus en Ubuntu 24.04
 
 
 
-### Paso 5: Reinicia Nautilus.
+### Paso 6: Reinicia Nautilus.
   ```
   nautilus -q
   ```
